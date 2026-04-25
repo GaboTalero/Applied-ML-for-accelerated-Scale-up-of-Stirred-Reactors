@@ -1,0 +1,2 @@
+# Applied-ML-for-accelerated-Scale-up-of-Stirred-Reactors
+Develop an ML model to predict the median turbulent dissipation rate (ε_p50) in stirred reactors using CFD-generated data, with validation against a reference study. The workflow covers data cleaning, EDA, feature engineering, pipeline preparation, model execution, and results analysis to ensure robustness and interpretability.
